@@ -145,3 +145,4 @@ hist(redwine$alcohol, freq = FALSE, labels = TRUE)
 
 #Para encontrarmos outliers, podemos plotar um boxplot
 boxplot(redwine$quality)
+
